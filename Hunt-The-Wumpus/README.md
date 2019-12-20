@@ -1,5 +1,5 @@
-Implementing Hunt the Wumpus
-Motivation
+Hunt the Wumpus
+
 
 The goal of this assignment is to start working with polymorphism and C++ template classes from the STL (standard template library). Follow the directions below and be sure to submit a TAR file containing only your .h, .cpp, and Makefile.
 Introduction
