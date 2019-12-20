@@ -1,5 +1,6 @@
-Problem Statement
+C++ Linked List Implementation
 
+Problem Statement:
 For this assignment, you will implement a linked list class using pointers and object-oriented programming. Although the C++ STL (Standard Template Library) offers a linked list implementation, you must implement this program "from scratch" and cannot simply utilize the existing STL offerings (<list> or <forward_list>).
 
 Your linked list will be designed to contain signed integers of type int.
