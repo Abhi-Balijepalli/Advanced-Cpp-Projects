@@ -1,3 +1,11 @@
+/* Name: Pizza portal
+ * Author: stickZ
+ * Date: 4/24/2019
+ * Description:
+ * Input:
+ * Output:
+ */
+
 #include <iostream>
 #include <fstream>
 #include <string>
