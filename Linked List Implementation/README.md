@@ -4,7 +4,7 @@ Problem Statement:
 For this assignment, you will implement a linked list class using pointers and object-oriented programming. Although the C++ STL (Standard Template Library) offers a linked list implementation, you must implement this program "from scratch" and cannot simply utilize the existing STL offerings (<list> or <forward_list>).
 
 
-```
+```c
 class Linked_List_Node {
 public:
    int val; // the value that this node stores
@@ -13,7 +13,7 @@ public:
 }
 ```
 Note: Linked_List_Node is being used akin to a struct (with public member variables). This is intentional so that you can easily modify the member variables from within the Linked_List class.
-```
+```c
 class Linked_List {
 private:
    unsigned int length; // the number of nodes contained in the list
