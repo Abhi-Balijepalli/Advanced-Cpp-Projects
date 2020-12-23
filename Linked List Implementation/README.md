@@ -3,11 +3,6 @@ C++ Linked List Implementation
 Problem Statement:
 For this assignment, you will implement a linked list class using pointers and object-oriented programming. Although the C++ STL (Standard Template Library) offers a linked list implementation, you must implement this program "from scratch" and cannot simply utilize the existing STL offerings (<list> or <forward_list>).
 
-Your linked list will be designed to contain signed integers of type int.
-Required Classes
-
-You must implement the classes shown below (as well as the exact member functions that are listed).
-Note: It is okay to add additional functions or variables as desired. You cannot add extra parameters to the functions that are listed.
 
 ```
 class Linked_List_Node {
@@ -38,11 +33,7 @@ public:
    // you can add extra member variables or functions as desired
 }
 ```
-Note that the sort_ascending() function must be implemented using the recursive Merge Sort algorithm (Links to an external site.). sort_descending() can utilize Merge Sort or a different algorithm (see extra credit).
-You are also required to implement a function that counts the number of prime numbers within a Linked_List. This can be written as part of the Linked_List class or in some other class. For our purposes, a negative number is never considered to be prime.
-
-Note: All of the program functionality must be implemented using your linked list. You should not be storing or copying the user input into an array, vector, or other types of data structures.
-`
+``
 Please enter a number: 146
 Do you want another num (y or n): y
 Enter a number: 30
@@ -57,4 +48,4 @@ Sort ascending or descending (a or d)? a
 Your linked list is: -31 10 30 73 146
 You have 1 prime number(s) in your list.
 Do you want to do this again (y or n)? n
-`
+``
