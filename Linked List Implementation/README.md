@@ -33,7 +33,7 @@ public:
    // you can add extra member variables or functions as desired
 }
 ```
-``
+```cpp
 Please enter a number: 146
 Do you want another num (y or n): y
 Enter a number: 30
@@ -48,4 +48,4 @@ Sort ascending or descending (a or d)? a
 Your linked list is: -31 10 30 73 146
 You have 1 prime number(s) in your list.
 Do you want to do this again (y or n)? n
-``
+```
